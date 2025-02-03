@@ -39,7 +39,8 @@ make -j
 
 # Pretrained models
 
-* Download [Our P-frame pretrained models](https://drive.google.com/drive/folders/1xJc7AoMmni7KmrjgOAIfqam2Yt6Jyd6V?usp=drive_link) and put them into ./checkpoints folder.
+* Download [Our P-frame pretrained PSNR models](https://drive.google.com/file/d/1f_ldkbZMbmIXSsmiOIKysl0YsHEYMtU7/view?usp=drive_link) and put them into ./checkpoints folder.
+* Download [Our P-frame pretrained MS-SSIM models](https://drive.google.com/file/d/1exg3-EQUtavmu_hy4WqjcOlaEsjF96JA/view?usp=drive_link) and put them into ./checkpoints folder.
 * Download [We use the same image model as DCVC-DC](https://1drv.ms/u/s!AozfVVwtWWYoiWdwDhEkZMIfpon5?e=JcGri5) and put them into ./checkpoints folder.
 
 # Test the models
